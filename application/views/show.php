@@ -9,8 +9,8 @@
 </head>
 <body>
     <div class="container">
-        <h2><a href="http://www.tutorial-webdesign.com/upload-file-video-codeigniter">Tutorial-webdesign.com</a></h2>
-        <small>Demo upload file using codeigniter | &rarr; <a href="http://www.tutorial-webdesign.com/upload-file-video-codeigniter">Back to tutorial</a></small>
+        <h2><a href="http://www.tutorial-webdesign.com/codeigniter-upload-file-video">Tutorial-webdesign.com</a></h2>
+        <small>Demo upload file using codeigniter | &rarr; <a href="http://www.tutorial-webdesign.com/codeigniter-upload-file-video">Back to tutorial</a></small>
         <hr>
     	<strong>File Name:</strong> <?php echo $video_detail['file_name'];?><br>
         <small>Click to play</small>
