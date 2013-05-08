@@ -11,10 +11,6 @@ class Movie extends CI_Controller {
     $this->load->view('movie');
   }
 
-  public function show() {
-    $this->load->view('show');
-  }
-
   public function add_video(){
     if (isset($_FILES['video']['name']) && $_FILES['video']['name'] != '') {
         unset($config);
